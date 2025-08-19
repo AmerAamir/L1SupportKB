@@ -3,6 +3,7 @@
   - [Windows Basics](/guides/WindowsBasics.md)
   - [Network Checks](/guides/NetworkChecks.md)
   - [Printer Issues](/guides/PrinterIssues.md)
+     - [New Guide](/guides/NewGuideTemplate.md)
 - Tickets
   - [TCKT001](/tickets/TCKT001.md)
   - [TCKT002](/tickets/TCKT002.md)
